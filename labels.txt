@@ -1,0 +1,12 @@
+school
+crossing
+menAtWork
+person
+right_side
+green
+car
+red
+left_side
+yellow
+bump
+stop
